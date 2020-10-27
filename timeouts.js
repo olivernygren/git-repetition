@@ -8,4 +8,4 @@ function sayHello() {
 }
 
 // setTimeout(sayHello, 3000);
-setInterval(sayHello, 1000);
+// setInterval(sayHello, 1000);

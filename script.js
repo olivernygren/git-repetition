@@ -1,10 +1,3 @@
 
-
-// setTimeout()
-
-
-function sayHello() {
-    console.log("Hello World")
-}
-
-sayHello()
+const h1 = document.getElementById('title');
+console.log(h1);
